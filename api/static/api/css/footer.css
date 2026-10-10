@@ -1,0 +1,15 @@
+h1{
+    height: 80;
+    width: 100%;
+    background-color: chocolate;
+    color: blueviolet;
+    border: 10px solid gray;
+    text-align: center;
+}
+p{
+    height: 300px;
+    width: 100%;
+    background-color: #818181;
+    color: #464646;
+    border: 10px solid gray;
+}

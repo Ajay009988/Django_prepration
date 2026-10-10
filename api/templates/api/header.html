@@ -1,0 +1,21 @@
+
+{% load static %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static "api/css/header.css" %}">
+{% endblock css %}
+
+{% block header %}
+<h1>this is a home page</h1>
+<hr>
+<ul>
+    <li><a href="/api/home">home</a></li>
+    <li><a href="/api/about">about</a></li>
+    <li><a href="/api/course">course</a></li>
+    <li><a href="/api/features">features</a></li>
+</ul>
+{% endblock header %}
+
+
+
+

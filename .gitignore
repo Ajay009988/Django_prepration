@@ -1,0 +1,18 @@
+# Django
+db.sqlite3
+__pycache__/
+*.pyc
+migrations/
+*.log
+
+# Virtual Env - isko kabhi push mat karna
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Python
+*.py[cod]
+*$py.class
